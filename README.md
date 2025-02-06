@@ -1,2 +1,5 @@
 # ali-repo
-introduction to github§
+
+introduction to githut
+i'm thhe most pretty girl in the word
+git
